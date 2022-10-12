@@ -27,12 +27,56 @@ This project is a mouvement recognition system designed to assist nurses and doc
 
 
 ## How to Use?
+First you must create a new environment for the project.
 
-Note the versions of the libraries used;
+If not installed, you can install [anaconda](https://www.anaconda.com/products/distribution) or [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-- Tensorflow: 2.8.0
-- Numpy: 1.22.3
-- Python: 3.8.13
+once anaconda install, create a new virtual env with the following command
+```
+$ conda create --name mvt_recognition python=3.8.13
+```
+
+make sure to activate this env with the following command
+
+```
+$ conda activate mvt_recongnition
+```
+Navigate in a work directory of your choice using cd
+Now create a new folder and move into with the following commands
+
+```
+$ mkdir cloned_dir
+```
+
+```
+$ cd cloned_dir
+```
+
+Now clone this repository in your directory
+use this
+```
+$ git clone https://github.com/Nathanf22/Mouvement-Recognition.git
+```
+
+or this
+
+```
+$ git clone git@github.com:Nathanf22/Mouvement-Recognition.git
+```
+
+use the second if you know how to setup ssh
+
+Move into the cloned folder using cd
+
+```
+$ cd Mouvement-Recognition
+```
+
+install requirements with the folloing command
+
+```
+$ pip install -m requirements.txt
+```
 
 
 To Test this model, execute the test.py file,
