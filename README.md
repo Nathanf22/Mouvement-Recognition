@@ -78,6 +78,12 @@ install requirements with the folloing command
 $ pip install -m requirements.txt
 ```
 
+Download the model [here](https://drive.google.com/file/d/1wN2vFiUG3KeVkALdQNBpYWWJGMfjED6z/view?usp=sharing) and put it in the root diretory of the project, or use the following command to directly download it.
+
+```
+$ wget https://drive.google.com/u/2/uc?id=1wN2vFiUG3KeVkALdQNBpYWWJGMfjED6z&export=download
+```
+
 
 To Test this model, execute the test.py file,
 Modify the code to test on the differents videos.
@@ -107,16 +113,28 @@ Video with following characteristics:
 - the video must have a depth map video
 
 
-##Demo
-![](Chuter - Fall down.gif)
-![](Convulser - Convulse.gif)
-![](Tousser - cough.gif)
-![](Vomir - Vomit.gif)
+## Demo
+The following vids have been labeled using our model. 
+
+![Fall down](Chuter.gif)
+![Convulse](Convulser.gif)
+![Cough](Tousser.gif)
+![Vomit](Vomir.gif)
+
 
 
 
 ## 🚀 About Me
 I'm a Computer science engineer Specialized in machine learning, 2022 graduated of the Saint Jerome Douala University.
+This are my Social networks contacts
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/nathan-kamokoue-1289121b8)
+&nbsp;
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/KamokoueNathan)
+
+EMail: sikatinathan@gmail.com
+
+Contact me for more informations.
 
 
 ## License
