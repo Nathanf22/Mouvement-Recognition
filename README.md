@@ -129,8 +129,7 @@ I'm a Computer science engineer Specialized in machine learning, 2022 graduated 
 
 These are my Social networks contacts
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/nathan-kamokoue-1289121b8)
-&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/nathan-kamokoue-1289121b8/);
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40KamokoueNathan)](https://twitter.com/KamokoueNathan)
 
