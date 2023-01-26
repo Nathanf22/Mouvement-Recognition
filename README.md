@@ -125,7 +125,7 @@ The following vids have been labeled using our model.
 
 
 ## 🚀 About Me
-I'm a Computer science engineer Specialized in machine learning, 2022 graduated of the Saint Jerome Douala University.
+I'm a Computer science engineer Specialized in machine learning, 2022 graduated from the Saint Jerome Douala University.
 
 These are my Social networks contacts
 
