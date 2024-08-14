@@ -1,6 +1,6 @@
 # MOUVEMENT RECOGNITION
 
-This project is a mouvement recognition system designed to assist nurses and doctors in the task of monitoring patient. the model created can recognize a mouvement between 8 differents mouvements in a video
+This project is a movement recognition system designed to assist nurses and doctors in the task of monitoring patient. the model created can recognize a mouvement between 8 differents mouvements in a video
 
 
 
